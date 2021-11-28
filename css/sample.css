@@ -10,13 +10,12 @@
     text-align: center;
     font-family: "Bangers", cursive;
     color: firebrick;
-    font-size: 60px;
+    font-size: 40px;
     margin: 5px;
 }
-main{
+/* main{
     /* border-bottom:1px solid #ccc; */
-    margin-bottom: 140px;
-}
+    /* margin-bottom: 140px;}  */
 .footer{
     background-color: #fff;
     border-bottom:1px solid #ccc;
@@ -139,7 +138,7 @@ main{
 
 .picsize{
     height: auto;
-    width: 350px;
+    width: 300px;
 }
 
 .cardsize{
@@ -164,7 +163,8 @@ ul{
     display:table;  /* 定義 */
     table-layout: fixed;
     width:100%;
-    background-color:firebrick
+    background-color:firebrick;
+    margin: 0px;
 }
 li{
     text-align: center;
